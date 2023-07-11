@@ -17,13 +17,16 @@ Hello Everyone! 👋
 - Project Management: Jira, Google Cloud Platform (GCP), Trello
 
 🚀 **Experience** 🚀
+**Software Engineer of the MSA**
 - Utilized SQL and Java to implement an object-oriented library system, which included inventory management, book tracking, and user authentication.
 - Conducted meetings in a SCRUM fashion, making valuable suggestions that helped pilot additions made to the system.
 - Developed and implemented innovative digital projects, including the MSA library and ongoing app development.
 
+**Artificial Intelligence Whale and Dolphin Identification**
 - Achieved optimized CNN model utilizing Python for dolphin and whale image classification, overcoming challenges and extensive hyperparameter tuning to attain an entropy loss value of 1.
 - Implemented Test-Driven Development with black box and GUI tests, improving software quality and performance.
 
+**MSA Library System**
 - Utilized Django to implement the database and created a secure security system ensuring data privacy, showcasing strong problem-solving skills.
 - Developed the front end of the website, leveraging the power of CSS.
 
