@@ -17,6 +17,7 @@ Hello Everyone! 👋
 - Project Management: Jira, Google Cloud Platform (GCP), Trello
 
 🚀 **Experience** 🚀
+
 **Software Engineer of the MSA**
 - Utilized SQL and Java to implement an object-oriented library system, which included inventory management, book tracking, and user authentication.
 - Conducted meetings in a SCRUM fashion, making valuable suggestions that helped pilot additions made to the system.
@@ -30,7 +31,7 @@ Hello Everyone! 👋
 - Utilized Django to implement the database and created a secure security system ensuring data privacy, showcasing strong problem-solving skills.
 - Developed the front end of the website, leveraging the power of CSS.
 
-Thank you for visiting my GitHub profile. Feel free to explore my projects and reach out to me for any collaborations or inquiries. 🌟
+Thank you for visiting my GitHub profile. Feel free to explore my projects I have showcased above and some hiddend ones located in my github profile, and reach out to me for any collaborations or inquiries. 🌟
 
 Best regards,
 
