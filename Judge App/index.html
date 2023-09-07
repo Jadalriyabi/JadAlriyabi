@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Scoring</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Event Scoring App</h1>
+    </header>
+    <main>
+        <div class="centered">
+            <h2>Teams</h2>
+        </div>
+        <ul id="team-list">
+            <li>
+                <button class="team-button" data-team="Team A">Team A</button>
+            </li>
+            <li>
+                <button class="team-button" data-team="Team B">Team B</button>
+            </li>
+            <!-- Add more teams here -->
+        </ul>
+    </main>
+    <div class="modal" id="score-modal">
+        <div class="modal-content">
+            <span class="close-button" id="close-modal">&times;</span>
+            <h2>Scoring for <span id="selected-team"></span></h2>
+            <form id="score-form">
+                <label for="criterion">Select Criterion:</label>
+                <select id="criterion" name="criterion">
+                    <option value="criterion1">Criterion 1</option>
+                    <option value="criterion2">Criterion 2</option>
+                    <option value="criterion3">Criterion 3</option>
+                    <option value="criterion4">Criterion 4</option>
+                </select>
+                <label for="score">Score (1-5):</label>
+                <input type="number" id="score" name="score" min="1" max="5" required>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
