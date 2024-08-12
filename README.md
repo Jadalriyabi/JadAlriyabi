@@ -1,12 +1,10 @@
 Hello Everyone! 👋
 
-📍 I'm Jad Alriyabi.
+📍 I'm Jad Alriyabi, a recent computer science graduate from [Simon Fraser University](https://www.sfu.ca/). I am a tech enthusiast, entrepreneur, writer, and gamer :). Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-💻 I am currently enrolled as a full-time student at Simon Fraser University.
-
-📈 I have experience in Machine Learning, Web Development, and DBMS.
-
-🧠 I have a keen knowledge of Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP).
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/jadalriyabi/)
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/@jadalriyabi)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:jad.alriyabi@gmail.com)
 
 ## ⚡ Technologies
 
@@ -21,9 +19,7 @@ Hello Everyone! 👋
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
