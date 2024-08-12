@@ -30,3 +30,9 @@ Hello Everyone! 👋
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
+<p align="center">
+  <a href="https://github.com/Jadalriyabi/Personal-Website/Jad Alriyabi Resume.pdf">
+    <img src="https://img.shields.io/badge/View_Resume-Full--Stack-blue?style=flat" alt="View Resume - Full-Stack"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JadAlriyabi" onerror="this.style.display='none'"/>
+</p>
