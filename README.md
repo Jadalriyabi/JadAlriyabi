@@ -30,4 +30,3 @@ Hello Everyone! 👋
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jadalriyabi&count_private=true&show_icons=true&include_all_commits=true)
