@@ -31,7 +31,7 @@ Hello Everyone! 👋
 
 
 <p align="center">
-  <a href="https://github.com/Jadalriyabi/Personal-Website/Jad Alriyabi Resume.pdf">
+  <a href="https://github.com/Jadalriyabi/Personal-Website/blob/main/Jad%20Alriyabi%20Resume.pdf">
     <img src="https://img.shields.io/badge/View_Resume-Full--Stack-blue?style=flat" alt="View Resume - Full-Stack"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=JadAlriyabi" onerror="this.style.display='none'"/>
