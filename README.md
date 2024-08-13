@@ -5,7 +5,7 @@ Hello Everyone! 👋
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-JadAlriyabi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jadalriyabi/)](https://www.linkedin.com/in/jadalriyabi/)
-  [![Youtube Badge](https://img.shields.io/badge/-jadalriyabi-03a57a?style=flat-square&label&logo=Medium&link=https://www.youtube.com/@jadalriyabi)](https://www.youtube.com/@jadalriyabi)
+  [![Youtube Badge](https://img.shields.io/badge/-jadalriyabi-03a57a?style=flat-square&label&logo=Youtube&link=https://www.youtube.com/@jadalriyabi)](https://www.youtube.com/@jadalriyabi)
   [![Gmail Badge](https://img.shields.io/badge/-jad.alriyabi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jad.alriyabi@gmail.com)](mailto:jad.alriyabi@gmail.com)
 </div>
 <br>
