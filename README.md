@@ -11,7 +11,6 @@ Hello Everyone! 👋
 <br>
 
 ## ⚡ Technologies
-<div align="center">
  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -32,8 +31,41 @@ Hello Everyone! 👋
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
  ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-</div>
+
+
+
+<h3>How I'd define myself...literally</h3>
+
+ ```python
+ class Sy < Person
+   def initialize
+     @name = 'Jad Alriyabi'
+     @age = 23
+     @work = [ 'Absolute Security Dev', 'Headstarter AI Fellow', 'SFU', 'Alriyabi Trading' ]
+     @education = [ 'SFU BSc Computer Science', 'AI concentation' 'Buisness Minor', 'CSM®', 'AWS Cloud Practitioner']
+     @hobbies = [ 'Basketball', 'Snowboarding', 'Cooking' ]
+   end
+
+   def current_location
+     'Vancouver, BC, CAN'
+   end
+
+   def next_locations
+     ['Lisbon, PT', 'Barcelona, ESP']
+   end
+
+   def currently
+     {
+       studying: [ 'Network Security' ],
+       reading: [ 'How to Read a book', 'Apollo's Rhetoric' ],
+       tinkering: [ 'OpenAI API', 'Firebase', 'AWS' ]
+      }
+   end
+ end
+ ```
+ 
 <br>
+
 
 <p align="center">
   <a href="https://github.com/Jadalriyabi/Personal-Website/blob/main/Jad%20Alriyabi%20Resume.pdf">
