@@ -19,12 +19,10 @@ Hello Everyone! 👋
  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -37,31 +35,37 @@ Hello Everyone! 👋
 <h3>How I'd define myself...literally</h3>
 
  ```python
- class Sy < Person
-   def initialize
-     @name = 'Jad Alriyabi'
-     @age = 23
-     @work = [ 'Absolute Security Dev', 'Headstarter AI Fellow', 'SFU', 'Alriyabi Trading' ]
-     @education = [ 'SFU BSc Computer Science', 'AI concentation' 'Buisness Minor', 'CSM®', 'AWS Cloud Practitioner']
-     @hobbies = [ 'Basketball', 'Snowboarding', 'Cooking' ]
-   end
+class Person:
+    def __init__(self, name, age, work, education, hobbies):
+        self.name = name
+        self.age = age
+        self.work = work
+        self.education = education
+        self.hobbies = hobbies
 
-   def current_location
-     'Vancouver, BC, CAN'
-   end
+class Jad(Person):
+    def __init__(self):
+        super().__init__(
+            name='Jad Alriyabi',
+            age=23,
+            work=['Absolute Security Dev', 'Headstarter AI Fellow', 'SFU', 'Alriyabi Trading'],
+            education=['SFU BSc Computer Science', 'AI concentration', 'Business Minor', 'CSM®', 'AWS Cloud Practitioner'],
+            hobbies=['Basketball', 'Snowboarding', 'Cooking']
+        )
 
-   def next_locations
-     ['Lisbon, PT', 'Barcelona, ESP']
-   end
+    def current_location(self):
+        return 'Vancouver, BC, CAN'
 
-   def currently
-     {
-       studying: [ 'Network Security' ],
-       reading: [ 'How to Read a book', 'Apollo's Rhetoric' ],
-       tinkering: [ 'OpenAI API', 'Firebase', 'AWS' ]
-      }
-   end
- end
+    def next_locations(self):
+        return ['Istanbul, TURKEY', 'Tibet, CHINA']
+
+    def currently(self):
+        return {
+            'studying': ['Network Security'],
+            'reading': ['How to Read a Book', 'Apollo\'s Rhetoric'],
+            'tinkering': ['OpenAI API', 'Firebase', 'AWS']
+        }
+
  ```
  
 <br>
