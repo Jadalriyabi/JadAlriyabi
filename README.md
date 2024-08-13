@@ -7,6 +7,7 @@ Hello Everyone! 👋
   [![Linkedin Badge](https://img.shields.io/badge/-JadAlriyabi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jadalriyabi/)](https://www.linkedin.com/in/jadalriyabi/)
   [![YouTube Badge](https://img.shields.io/badge/-Jadalriyabi-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@jadalriyabi)](https://www.youtube.com/@jadalriyabi)
   [![Gmail Badge](https://img.shields.io/badge/-jad.alriyabi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jad.alriyabi@gmail.com)](mailto:jad.alriyabi@gmail.com)
+  [![Website Badge](https://img.shields.io/badge/-jadalriyabi.com-0A66C2?style=flat-square&logo=Internet%20Explorer&logoColor=white&link=https://jadalriyabi.com)](https://jadalriyabi.com)
 </div>
 <br>
 
