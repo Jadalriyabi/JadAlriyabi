@@ -3,9 +3,11 @@ Hello Everyone! 👋
 📍 I'm Jad Alriyabi, a recent computer science graduate from [Simon Fraser University](https://www.sfu.ca/). I am a tech enthusiast, entrepreneur, writer, and gamer :). Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
  
 <div align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-jadalriyabi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jadalriyabi/)](https://www.linkedin.com/in/jadalriyabi/)
-  [![Youtube Badge](https://img.shields.io/badge/-jadalriyabi-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@jadalriyabi)](https://www.youtube.com/@jadalriyabi)
-  [![Gmail Badge](https://img.shields.io/badge/-jad.alriyabi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jad.alriyabi@gmail.com)](mailto:jad.alriyabi@gmail.com)
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
+  [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
+  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
+  [![Behance Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
 </div>
 <br>
 
