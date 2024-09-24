@@ -49,7 +49,7 @@ class Jad(Person):
         super().__init__(
             name='Jad Alriyabi',
             age=23,
-            work=['Absolute Security Dev', 'Headstarter AI Fellow', 'SFU', 'Alriyabi Trading'],
+            work=['Absolute Security Developer', 'AI Practitioner', 'SFU', 'Entrepreneur'],
             education=['SFU BSc Computer Science', 'AI concentration', 'Business Minor', 'CSM®', 'AWS Cloud Practitioner'],
             hobbies=['Basketball', 'Snowboarding', 'Cooking']
         )
